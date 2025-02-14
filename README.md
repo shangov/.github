@@ -1,2 +1,1 @@
-# .github
-Config files for my GitHub organization.
+## Nikolay Shangov
